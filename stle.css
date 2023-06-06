@@ -1,0 +1,9 @@
+body
+{
+    background-image: url(bg.jpg);
+    font-family: sans-serif;
+}
+.head
+{
+    text-transform: uppercase;
+}
